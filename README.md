@@ -2,6 +2,7 @@
 ROBUST MPC CONTROL BASED ON THE QUASI-MIN-MAX ALGORITHM WITH RELAXATION IN LMIS 📈
 
   I. Technique to address constrained robust model predictive control (MPC) scheme combined with anti-windup compensator for linear parameter varying (LPV) and linear time-varying (LTV) systems based on a quasi-min-max algorithm with LMI relaxation. 
+  
   II. The techniques are applied to the LTV boost converter plant showing the good performance of the developed controller.
 
 [Paper 1 (Portuguese)](https://www.sba.org.br/open_journal_systems/index.php/sba/article/view/181/153)
