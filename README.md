@@ -13,5 +13,5 @@ ROBUST MPC CONTROL BASED ON THE QUASI-MIN-MAX ALGORITHM WITH RELAXATION IN LMIS 
 
 [Paper 4 (English)](https://ieeexplore.ieee.org/document/9065825) [code 💻](https://github.com/roscibely/LPV-Modeling-of-Boost-Converter)
 
-[Dissertation (Portuguese) ](https://ppgee.ufersa.edu.br/wp-content/uploads/sites/61/2019/08/Disserta%C3%A7%C3%A3o-Rosana-Cibely.pdf)
+[Dissertation (Portuguese) ](https://ppgee.ufersa.edu.br/wp-content/uploads/sites/61/2019/08/Disserta%C3%A7%C3%A3o-Rosana-Cibel.pdf)
 
