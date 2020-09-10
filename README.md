@@ -5,13 +5,13 @@ ROBUST MPC CONTROL BASED ON THE QUASI-MIN-MAX ALGORITHM WITH RELAXATION IN LMIS 
   
   II. The techniques are applied to the LTV boost converter plant showing the good performance of the developed controller.
 
-[Paper 1 (Portuguese)](https://www.sba.org.br/open_journal_systems/index.php/sba/article/view/181/153)
 
-[Paper 2 (Portuguese)](https://ieeexplore.ieee.org/document/9082915) 👈🏻
-
-[Paper 3 (Portuguese)](https://proceedings.science/sbai-2019/papers/controle-preditivo-baseado-em-modelo-com-retroalimentacao-aplicado-no-conversor-boost-com-incertezas)
-
-[Paper 4 (English)](https://ieeexplore.ieee.org/document/9065825) [code 💻](https://github.com/roscibely/LPV-Modeling-of-Boost-Converter)
-
-[Dissertation (Portuguese) ](https://ppgee.ufersa.edu.br/wp-content/uploads/sites/61/2019/08/Disserta%C3%A7%C3%A3o-Rosana-Cibel.pdf)
-
+    @MastersThesis{rego2019controle,
+      title={Controle MPC robusto com anti-windup aplicado a sistemas LPV e LTV baseado no algoritmo quasi-min-max com relaxao em LMIS},
+      author={Rego, R. C. B},
+      school={Federal Rural University of Semi-Arid Region},
+      year={2019},
+      publisher={Federal Rural University of Semi-Arid Region}
+    }
+    
+    
