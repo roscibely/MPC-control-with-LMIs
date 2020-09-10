@@ -10,8 +10,7 @@ ROBUST MPC CONTROL BASED ON THE QUASI-MIN-MAX ALGORITHM WITH RELAXATION IN LMIS 
       title={Controle MPC robusto com anti-windup aplicado a sistemas LPV e LTV baseado no algoritmo quasi-min-max com relaxao em LMIS},
       author={Rego, R. C. B},
       school={Federal Rural University of Semi-Arid Region},
-      year={2019},
-      publisher={Federal Rural University of Semi-Arid Region}
+      year={2019}
     }
     
     
