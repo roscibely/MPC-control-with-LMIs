@@ -14,7 +14,7 @@ ROBUST MPC CONTROL BASED ON THE QUASI-MIN-MAX ALGORITHM WITH RELAXATION IN LMIS 
     }
     
     
-    ##  Publications related to this project
+  ##  Publications related to this project
     
    Rego, Rosana, and Marcus Costa. ["Robust control with an anti-windup technique based in relaxed LMI conditions for LTV system."](https://github.com/roscibely/robust-predictive-control-with-AW) International Journal of Modelling, Identification and Control 35.4 (2020): 298-304.
    
