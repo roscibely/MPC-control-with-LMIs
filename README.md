@@ -1,6 +1,8 @@
 # Model predictive control (MPC) with linear matrix inequalities (LMI) 🕹
 ROBUST MPC CONTROL BASED ON THE QUASI-MIN-MAX ALGORITHM WITH RELAXATION IN LMIS 📈
 
+![Figure](https://github.com/roscibely/MPC-control-with-LMIs/blob/master/abstract.png)
+
   I. Technique to address constrained robust model predictive control (MPC) scheme combined with anti-windup compensator for linear parameter varying (LPV) and linear time-varying (LTV) systems based on a quasi-min-max algorithm with LMI relaxation. 
   
   II. The techniques are applied to the LTV boost converter plant showing the good performance of the developed controller.
