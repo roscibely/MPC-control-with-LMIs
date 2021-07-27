@@ -17,6 +17,8 @@ ROBUST MPC CONTROL BASED ON THE QUASI-MIN-MAX ALGORITHM WITH RELAXATION IN LMIS 
     
     
   ##  Publications related to this project
+  
+ [FORTHCOMING ARTICLE]  Rego, Rosana, and Marcus Costa. ["An offline predictive control with ellipsoid invariant set for time-variant system."](https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijmic) International Journal of Modelling, Identification and Control 37.2 (2021).
     
    Rego, Rosana, and Marcus Costa. ["Robust control with an anti-windup technique based in relaxed LMI conditions for LTV system."](https://github.com/roscibely/robust-predictive-control-with-AW) International Journal of Modelling, Identification and Control 35.4 (2020): 298-304.
    
