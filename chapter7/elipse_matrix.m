@@ -1,4 +1,4 @@
-function [x,y,z]= elipsoid_matrx(C)
+function [x,y,z]= elipse_matrix(C)
 [U,L] = eig (C);
 M = [0 0 0]';
 % For N standard deviations spread of data , the radii of the eliipsoid will
