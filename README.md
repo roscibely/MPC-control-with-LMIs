@@ -17,6 +17,8 @@ ROBUST MPC CONTROL BASED ON THE QUASI-MIN-MAX ALGORITHM WITH RELAXATION IN LMIS 
     
     
   ##  Publications related to this project
+ 
+ Rego, Rosana CB, and Marcus VS Costa. ["Offline output feedback robust anti-windup MPC-LPV using relaxed LMI optimization."](https://github.com/roscibely/offline-output-feedback-control) European Journal of Control (2022).
   
  Rego, Rosana, and Marcus Costa. ["An offline predictive control with ellipsoid invariant set for time-variant system."](https://www.inderscienceonline.com/doi/pdf/10.1504/IJMIC.2021.120216) International Journal of Modelling, Identification and Control 37.2 (2021).
     
